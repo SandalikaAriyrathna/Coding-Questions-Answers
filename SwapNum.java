@@ -1,5 +1,5 @@
 //swap two numbers without using a third variable
-public class SwamNum {
+public class SwapNum {
 
     public static void main(String[] args) {
         int a = 10;
