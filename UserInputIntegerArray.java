@@ -8,6 +8,7 @@ public class UserInputIntegerArray {
       Scanner s = new Scanner(System.in);
      
       int size = s.nextInt();
+      
       int myArray[] = new int [size];
      
       System.out.println("Enter the elements of the array one by one ");
