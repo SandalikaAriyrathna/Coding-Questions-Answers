@@ -1,6 +1,6 @@
 //find the second largest number in an array
 public class SecondHighest {
-    private static int findSecondHighest(int[] array) {
+    public static void main(String[] args){
  
     int[] array = {5, 10, 8, 90, 150};
 
