@@ -8,6 +8,10 @@ public class PrimeCheck {
                 break;
             }
         }
+
+        // print hello
+        
+
         System.out.println(isPrime ? "Prime" : "Not Prime");
     }
 }
