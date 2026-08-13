@@ -9,7 +9,7 @@ public class MatchingElement {
          
                 if (a[m] == a[n])
        
-                    System.out.print(a[m] + ",");
+                    System.out.println(a[m]);
         
             }
         
